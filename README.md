@@ -1,9 +1,10 @@
 ## Summarize your research 
 - I began my research by connecting with a cohort mate who had previous experience with AWS S3. He informed me that first I would need to create an AWS account. He also shared two youtube tutorials he used previously. 
-- My next step was googling "learn AWS S3" which returned links for AWS S3 (listed below) and some youtube tutorial options. 
+- My next step was googling "learn AWS S3" which returned links for AWS S3 docs(listed below) and some youtube tutorial options. 
 - Then I created an AWS account and read the documentation. 
 - Next I watched several AWS tutorials with step by step hand-ons actionable learning (creating a bucket, uploading objects (static images), additional elements and aspects of buckets including how to empty and delete them; Hosting static websites on Amazon S3).
-- Finally, I set up my project by configuring a bucket for website hosting. Then I uploaded an index doc and tested the website using the Amazon S3 website endpoint for the bucket.  
+- Finally, I set up my project by configuring a bucket for website hosting. Then I uploaded an index.html file with "Hello, World!" in the body and tested the website using the Amazon S3 website endpoint for the bucket. 
+- I included photo documentation of the sucessful static website at it's end point in this project so I could delete the bucket to prevent continued billing for the website. 
 
 ## Useful resources 
 - [x] Documentation
