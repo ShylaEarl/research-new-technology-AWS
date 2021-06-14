@@ -1,45 +1,33 @@
-# Research a new technology
+## Summarize your research work 
+- I began my research by connecting with a cohort mate who had previous experience with AWS S3. He informed me that first I would need to create an AWS account. He also shared two youtube tutorials he used previously. 
+- My next step was googling "learn AWS S3" which returned links for AWS S3 (listed below) and some youtube tutorial options. 
+- Then I created an AWS account and read the documentation. 
+- Next I watched several AWS tutorials with step by step hand-ons actionable learning (creating a bucket, uploading objects (static images), additional elements and aspects of buckets including how to empty and delete them; Hosting static websites on Amazon S3).
+- Finally, I set up my project by configuring a bucket for website hosting. Then I uploaded an index doc and tested the website using the Amazon S3 website endpoint for the bucket.  
 
-In the field of technology, you will be continuously learning. This assignment is geared towards both the process and execution for learning about a new technology. 
+## Useful resources 
+- [x] Documentation
+    - [x] Straight to the source. AWS https://aws.amazon.com/s3/getting-started/
+    - [x] Step by step getting stared. AWS https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html
+- [x] YouTube Tutorials
+    - [] Upload Images to S3 from Node Back End https://www.youtube.com/watch?v=NZElg91l_ms&t=271s
+    - [] Simple Image Upload with Node on Amazon S3 https://www.youtube.com/watch?v=ASuU4km3VHE&t=1068s
+- [] Miscelaneous
+    - [] Coursera hands-on training https://www.coursera.org/projects/aws-s3-basics
 
-## Getting Started
-
-Start by deciding which programming language, framework or technology that you would like to learn. Some ideas and directions include:
-
-- Other languages to explore might include TypeScript, PHP, Ruby, Java, C#, or Go
-- Front-end frameworks might include Angular or Vue
-- Mobile application development with Swift, Android, or React Native
-- Other types of databases, for example NoSQL database like MongoDB
-- ORM (object relational mapping) tools such as Sequelize
-- Cloud services such as AWS or Azure
-- If styling is your thing, you might look at SASS or other CSS frameworks or utilities
-
-There are many other options too. These are just some ideas to show the potential. 
-
-Once you've made a decision, find the main source for documentation of your selected technology. Look up 101 tutorials (books, videos, blogs, examples) and determine what software you'll need to get started. Spend some time to determine what your selected technology is good at. 
-
-- What is it replacing in your technology stack?
-- If it's an addition to your technology stack, do you understand conceptually how it upgrades your Stack?
-- Tips:
-  - Lynda.com and Pluralsight.com usually offer the first 1 or 2 videos of any given topic for free. Watch those videos.
-  - Look for Tutorials that center around the concept of ‘Up and running with…’. 
-  - Understand that this approach may not be correctly aligned with your context, either being too basic or too advanced. Be comfortable with the idea of interfacing with either.
+## Action plan 
+- [] Utilize and integrate AWS S3 into group project at Prime
+- [] Utilize and integrate AWS S3 into my solo project from Prime
+- [] Utilize Additional Training Options below to learn more about AWS S3 for data storage and web hosting
+- [] Find more resources to learn more about how to integrate AWS S3 with Node.js servers
 
 
-> Keep in mind that some technologies like Swift and Android require large software installations to get started. Others are just very broad and will require you focus in on something specific to get started with. 
+## Additional Training Options
+- [] AWS Training - free, online courses
+    - [] Introduction to S3
+    - [] Foundation for S3
+    - [] Deep dive on S3
+    - [] Migrating to S3
+- [] Udemy AWS Certified Solutions Architect Professional certification
+- [] Coursera (see above)
 
-## Getting Started & Hello World
-
-Start by getting tools installed (if needed). As you do this, make sure you're updating your readme files with notes or resources for getting started. Then build a small 'hello world' type example and commit it to GitHub. 
-
-> Make sure that you're not spending too much time lost in tutorials here! Try to keep things actionable & leave time for creating an action plan (described below).
-
-## Action Plan/Next Steps
-
-This step is very important. It can be easy to get lost in a new technology without having specific tasks to focus on. At Prime, we created those tasks for you. Your next step is to create a list of small projects or exercises you could work on to further your knowledge on the selected technology. Focus on things that your selected technology is normally used for. Estimate how long you expect each of these projects or exercises to take. You can use this plan to continue learning & researching this technology later on.
-
-After finishing this, you may continue working on your initial code example. 
-
-## What to submit
-
-You should submit a link to a GitHub repository with your code & a ReadMe file summarizing your initial research work, noting resources that you found useful, AND your action plan to continue this research/work later.
